@@ -8,6 +8,3 @@ This project is an AI-based web application that detects emotions from text usin
 - Error handling
 - Unit testing
 - Static code analysis
-
-## Author
-Your Name
